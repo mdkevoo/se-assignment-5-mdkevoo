@@ -82,7 +82,7 @@ Important settings and extensions that are to be initially configured after inst
 
    (e)**Bracket Pair Colorizer**-This extension simplifies code readability by adding colorization to brackets in your code. It assigns distinct colors to matching pairs of brackets, parentheses, braces, and other code-delimiting characters, making it easy to identify which opening bracket corresponds to a closing one. This visual aid is particularly valuable in large and complex code files, as it reduces the risk of bracket-related errors and enhances code navigation.
 
-   (f)**Code Spell Checker**-This extension checks your code for spelling errors, ensuring that variable names, comments, and documentation are correctly spelled. It’s especially useful in larger codebases to enhance code readability and maintain professionalism in your projects. By highlighting and suggesting corrections for spelling mistakes, it assists developers in creating well-documented and easily understandable code, promoting better code quality and collaboration.
+   (f)**Code Spell Checker**-This extension checks your code for spelling errors, ensuring that variable names, comments, and documentation are correctly spelled. It’s especially useful in larger code bases to enhance code readability and maintain professionalism in your projects. By highlighting and suggesting corrections for spelling mistakes, it assists developers in creating well-documented and easily understandable code, promoting better code quality and collaboration.
 
 
 6. Integrated Terminal:
